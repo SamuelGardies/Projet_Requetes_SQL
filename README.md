@@ -1,2 +1,12 @@
 # Projet_Requetes_SQL
-Projet de création de requêtes SQL réalisé sur Microsoft SQL Server Management Studio en novembre 2021. Lire README pour plus d'informations.
+
+Contexte:  
+Ce projet a été réalisé dans le cadre du premier semestre de ma troisième année d'études en licence MIASHS parcours MIAGE.
+
+Description:  
+C'est une série de questions transcrient en requêtes SQL pour sélectionner certains éléments d'une base de données.
+
+Contenu:  
+- Script de création de la base de données
+- Images de la base de données remplie
+- Questions transcrient en requêtes SQL
