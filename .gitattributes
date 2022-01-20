@@ -1,2 +1,3 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+(ce fichier sert à afficher le projet en tant que projet SLQ)
