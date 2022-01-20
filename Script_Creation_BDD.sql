@@ -281,5 +281,3 @@ REFERENCES [dbo].[filieres] ([codFiliere])
 GO
 ALTER TABLE [dbo].[reorienter] CHECK CONSTRAINT [FK_reorienter_filiereNouvelle]
 GO
-
-*.sql linguist-language=sql
